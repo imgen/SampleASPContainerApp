@@ -6,3 +6,14 @@ c:\Users\crwilhit.REDMOND\Documents\Github\MvcMovie\bin\Debug\netcoreapp1.1\MvcM
 c:\Users\crwilhit.REDMOND\Documents\Github\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
 c:\Users\crwilhit.REDMOND\Documents\Github\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
 c:\Users\crwilhit.REDMOND\Documents\Github\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+D:\Learn\SampleASPContainerApp\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+D:\Learn\SampleASPContainerApp\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+D:\Learn\SampleASPContainerApp\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+D:\Learn\SampleASPContainerApp\bin\Debug\netcoreapp1.1\MvcMovie.dll
+D:\Learn\SampleASPContainerApp\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+D:\Learn\SampleASPContainerApp\obj\Debug\netcoreapp1.1\MvcMovie.csprojAssemblyReference.cache
+D:\Learn\SampleASPContainerApp\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+D:\Learn\SampleASPContainerApp\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
+D:\Learn\SampleASPContainerApp\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+D:\Learn\SampleASPContainerApp\obj\Debug\netcoreapp1.1\MvcMovie.dll
+D:\Learn\SampleASPContainerApp\obj\Debug\netcoreapp1.1\MvcMovie.pdb

@@ -4,7 +4,7 @@ using System;
 
 namespace MvcMovie.Models
 {
-    public static class DBinitialize
+    public static class DbInitialize
     {
         public static void EnsureCreated(IServiceProvider serviceProvider)
         {
